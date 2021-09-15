@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Vpop &#8211; Trang chủ</title>
+	<atom:link href="http://localhost/myproject/wordpress/tag/vpop/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tuankiet435.github.io/wordpress</link>
+	<description>Tin tức âm nhạc trong và ngoài nước</description>
+	<lastBuildDate>Wed, 15 Sep 2021 17:32:52 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Ca khúc đám cưới miền Tây đứng đầu bảng xếp hạng #zingchart</title>
+		<link>https://tuankiet435.github.io/wordpress/ca-khuc-dam-cuoi-mien-tay-dung-dau-bang-xep-hang-zingchart/</link>
+					<comments>https://tuankiet435.github.io/wordpress/ca-khuc-dam-cuoi-mien-tay-dung-dau-bang-xep-hang-zingchart/#respond</comments>
+		
+		<dc:creator><![CDATA[Mai Tuấn Kiệt]]></dc:creator>
+		<pubDate>Wed, 15 Sep 2021 17:32:52 +0000</pubDate>
+				<category><![CDATA[Âm nhạc]]></category>
+		<category><![CDATA[Giải trí]]></category>
+		<category><![CDATA[Tin tức âm nhạc]]></category>
+		<category><![CDATA[Vpop]]></category>
+		<guid isPermaLink="false">https://tuankiet435.github.io/wordpress/?p=147</guid>
+
+					<description><![CDATA[Tiếp nối “Rồi tới luôn”, “Yêu là cưới” của Phát Hồ trở thành ca khúc thứ hai có chủ đề đám cưới chiếm lĩnh top 1 #zingchart real-time trong năm nay. Sau 4 ngày phát hành trên Zing MP3, Yêu là cưới của Phát Hồ (thành viên nhóm X2X) chính thức tiến tới vị trí top 1 [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://tuankiet435.github.io/wordpress/ca-khuc-dam-cuoi-mien-tay-dung-dau-bang-xep-hang-zingchart/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Sơn Tùng trở thành nghệ sĩ Việt Nam đầu tiên sở hữu cột mốc đặc biệt trên Tik Tok</title>
+		<link>https://tuankiet435.github.io/wordpress/son-tung-tro-thanh-nghe-si-viet-nam-dau-tien-so-huu-cot-moc-dac-biet-tren-tik-tok/</link>
+					<comments>https://tuankiet435.github.io/wordpress/son-tung-tro-thanh-nghe-si-viet-nam-dau-tien-so-huu-cot-moc-dac-biet-tren-tik-tok/#respond</comments>
+		
+		<dc:creator><![CDATA[Mai Tuấn Kiệt]]></dc:creator>
+		<pubDate>Wed, 25 Aug 2021 11:19:20 +0000</pubDate>
+				<category><![CDATA[Âm nhạc]]></category>
+		<category><![CDATA[Giải trí]]></category>
+		<category><![CDATA[Tin tức âm nhạc]]></category>
+		<category><![CDATA[Vpop]]></category>
+		<guid isPermaLink="false">https://tuankiet435.github.io/wordpress/?p=7</guid>
+
+					<description><![CDATA[Sơn Tùng là một trong những ca sĩ Việt rất được khán giả quan tâm.]]></description>
+		
+					<wfw:commentRss>https://tuankiet435.github.io/wordpress/son-tung-tro-thanh-nghe-si-viet-nam-dau-tien-so-huu-cot-moc-dac-biet-tren-tik-tok/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
