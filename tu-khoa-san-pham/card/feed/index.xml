@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Card &#8211; Trang chủ</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/card/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tuankiet435.github.io/wordpress</link>
+	<description>Tin tức âm nhạc trong và ngoài nước</description>
+	<lastBuildDate>Sun, 26 Sep 2021 14:15:33 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>OFFICIAL LIGHTSTICK BLACKPINK 02</title>
+		<link>https://tuankiet435.github.io/wordpress/sản%20phẩm/official-lightstick-blackpink-02/</link>
+					<comments>https://tuankiet435.github.io/wordpress/sản%20phẩm/official-lightstick-blackpink-02/#respond</comments>
+		
+		<dc:creator><![CDATA[Mai Tuấn Kiệt]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 14:14:45 +0000</pubDate>
+				<guid isPermaLink="false">https://tuankiet435.github.io/wordpress/?post_type=product&#038;p=260</guid>
+
+					<description><![CDATA[<strong>Thương hiệu : </strong><strong class="in">YG Entertainment</strong>
+
+<strong>Quốc gia : Korea</strong>]]></description>
+		
+					<wfw:commentRss>https://tuankiet435.github.io/wordpress/sản%20phẩm/official-lightstick-blackpink-02/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>SET CARD LIGHTSTICK BLACKPINK</title>
+		<link>https://tuankiet435.github.io/wordpress/sản%20phẩm/set-card-lightstick-blackpink/</link>
+					<comments>https://tuankiet435.github.io/wordpress/sản%20phẩm/set-card-lightstick-blackpink/#respond</comments>
+		
+		<dc:creator><![CDATA[Mai Tuấn Kiệt]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 14:11:21 +0000</pubDate>
+				<guid isPermaLink="false">https://tuankiet435.github.io/wordpress/?post_type=product&#038;p=258</guid>
+
+					<description><![CDATA[<strong>Thương hiệu : </strong><strong class="in">BLACKPINK</strong>
+
+<strong>Quốc gia : Korea</strong>]]></description>
+		
+					<wfw:commentRss>https://tuankiet435.github.io/wordpress/sản%20phẩm/set-card-lightstick-blackpink/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
