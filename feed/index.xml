@@ -11,8 +11,8 @@
 	<title>Trang chủ</title>
 	<atom:link href="http://localhost/myproject/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tuankiet435.github.io/wordpress</link>
-	<description>Tin tức âm nhạc trong và ngoài nước</description>
-	<lastBuildDate>Sat, 25 Sep 2021 13:54:29 +0000</lastBuildDate>
+	<description>Shop ablum và tin tức âm nhạc</description>
+	<lastBuildDate>Sun, 17 Oct 2021 21:13:42 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,23 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
+		<title>Top 5 bài hát nhạc trẻ nghe nhiều tại Việt Nam</title>
+		<link>https://tuankiet435.github.io/wordpress/top-10-bai-hat-nhac-tre/</link>
+					<comments>https://tuankiet435.github.io/wordpress/top-10-bai-hat-nhac-tre/#respond</comments>
+		
+		<dc:creator><![CDATA[Mai Tuấn Kiệt]]></dc:creator>
+		<pubDate>Tue, 12 Oct 2021 19:25:22 +0000</pubDate>
+				<category><![CDATA[Âm nhạc]]></category>
+		<guid isPermaLink="false">https://tuankiet435.github.io/wordpress/?p=366</guid>
+
+					<description><![CDATA[Âm nhạc Việt Nam ngày càng phát triển mạnh với những nhạc trẻ với những giai điệu cuốn hút, tình cảm thu hút được rất nhiều người nghe. Hãy cùng Điện máy Xanh điểm qua top 10 bài hát nhạc trẻ Việt Nam hay nhất, nghe là nghiện nhé! Danh sách top 5 bài hát [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://tuankiet435.github.io/wordpress/top-10-bai-hat-nhac-tre/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Ca khúc đám cưới miền Tây đứng đầu bảng xếp hạng #zingchart</title>
 		<link>https://tuankiet435.github.io/wordpress/ca-khuc-dam-cuoi-mien-tay-dung-dau-bang-xep-hang-zingchart/</link>
 					<comments>https://tuankiet435.github.io/wordpress/ca-khuc-dam-cuoi-mien-tay-dung-dau-bang-xep-hang-zingchart/#respond</comments>
@@ -60,9 +77,9 @@
 		
 			</item>
 		<item>
-		<title>Sơn Tùng trở thành nghệ sĩ Việt Nam đầu tiên sở hữu cột mốc đặc biệt trên Tik Tok</title>
-		<link>https://tuankiet435.github.io/wordpress/son-tung-tro-thanh-nghe-si-viet-nam-dau-tien-so-huu-cot-moc-dac-biet-tren-tik-tok/</link>
-					<comments>https://tuankiet435.github.io/wordpress/son-tung-tro-thanh-nghe-si-viet-nam-dau-tien-so-huu-cot-moc-dac-biet-tren-tik-tok/#respond</comments>
+		<title>Sơn Tùng trở thành nghệ sĩ Việt Nam đầu tiên sở hữu 1 số cột mốc đặc biệt trên Tik Tok</title>
+		<link>https://tuankiet435.github.io/wordpress/son-tung-tro-thanh-nghe-si/</link>
+					<comments>https://tuankiet435.github.io/wordpress/son-tung-tro-thanh-nghe-si/#respond</comments>
 		
 		<dc:creator><![CDATA[Mai Tuấn Kiệt]]></dc:creator>
 		<pubDate>Wed, 25 Aug 2021 11:19:20 +0000</pubDate>
@@ -74,7 +91,7 @@
 
 					<description><![CDATA[Sơn Tùng là một trong những ca sĩ Việt rất được khán giả quan tâm.]]></description>
 		
-					<wfw:commentRss>https://tuankiet435.github.io/wordpress/son-tung-tro-thanh-nghe-si-viet-nam-dau-tien-so-huu-cot-moc-dac-biet-tren-tik-tok/feed/</wfw:commentRss>
+					<wfw:commentRss>https://tuankiet435.github.io/wordpress/son-tung-tro-thanh-nghe-si/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

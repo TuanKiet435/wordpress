@@ -10,8 +10,8 @@
 	Bình luận cho Trang chủ	</title>
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tuankiet435.github.io/wordpress</link>
-	<description>Tin tức âm nhạc trong và ngoài nước</description>
-	<lastBuildDate>Fri, 01 Oct 2021 16:43:19 +0000</lastBuildDate>
+	<description>Shop ablum và tin tức âm nhạc</description>
+	<lastBuildDate>Sun, 17 Oct 2021 21:13:42 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
